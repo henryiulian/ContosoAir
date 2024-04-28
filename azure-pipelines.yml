@@ -1,4 +1,4 @@
-pool: moh-contoso-local-agent
+pool: Default
 trigger:
   - master
 steps:
